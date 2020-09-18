@@ -1,4 +1,24 @@
-theme: jekyll-theme-tactile
-title: Hoa Bui
-description: This is my personal homepage
+# Setup
+title:            Lớp 1.2
+description:      'Trường Tiểu học An Phú'
+url:              cochinh-thanphu.github.io
+baseurl:          /
 
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+relative_links:
+  enabled: true
+  collections: true
+  include:
+    - CONTRIBUTING.md
+    - README.md
+    - LICENSE.md
+    - COPYING.md
+    - CODE_OF_CONDUCT.md
+    - CONTRIBUTING.md
+    - ISSUE_TEMPLATE.md
+    - PULL_REQUEST_TEMPLATE.md
