@@ -1,12 +1,12 @@
 # Setup
-title:            Lớp 1.2
-description:      'Trường Tiểu học An Phú'
+title:            Hoa T. Bui
+description:      This is my personal page
 url:              cochinh-thanphu.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Hoa Bui'
+  url:            https://scholar.google.com/citations?user=aY5Esg4AAAAJ&hl=en
 
 paginate:         5
 
