@@ -1,12 +1,11 @@
 ---
-title: Categories
-type: categories
-# All the Categories of posts
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
+title: Math Demo
+author: Phuoc Truong Huynh
+date: 2019-08-08 11:33:00 +0800
+math: true
+image: /assets/img/sample/devices-mockup.png
 ---
+
 
 {% assign HEAD_PREFIX = "h_" %}
 {% assign LIST_PREFIX = "l_" %}

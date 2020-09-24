@@ -1,5 +1,4 @@
 ---
-layout: home
 breadcrumb:
   - label: Posts
 # Index page
