@@ -24,6 +24,16 @@
   url: archives
   icon: "fas fa-archive"
 -
+  name: "Teaching"
+  path: tabs
+  url: teaching
+  icon: "fas fa-chalkboard-teacher"
+-
+  name: "Publications"
+  icon: "fas fa-info"
+  path: tabs
+  url: publications
+-
   name: "About"
   icon: "fas fa-info"
   path: tabs
