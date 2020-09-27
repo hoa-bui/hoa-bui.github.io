@@ -162,7 +162,6 @@ defaults:
       path: tabs
     values:
       layout: page
-      toc: true
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
