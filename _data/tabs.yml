@@ -15,10 +15,10 @@
   url: categories
 
 -
-  name: "Seminars"
+  name: "Talks"
   icon: "fas fa-tags"
   path: tabs
-  url: seminars
+  url: talks
 #-
 #  name: "Archives"
 #  path: tabs
