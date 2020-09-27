@@ -13,7 +13,11 @@
   icon: "fas fa-stream"
   path: tabs
   url: categories
-
+-
+  name: "Teaching"
+  path: tabs
+  url: teaching
+  icon: "fas fa-chalkboard-teacher"
 -
   name: "Talks"
   icon: "fas fa-tags"
@@ -24,11 +28,6 @@
 #  path: tabs
 #  url: archives
 #  icon: "fas fa-archive"
--
-  name: "Teaching"
-  path: tabs
-  url: teaching
-  icon: "fas fa-chalkboard-teacher"
 -
   name: "Publications"
   icon: "fas fa-info"
