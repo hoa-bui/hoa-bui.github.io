@@ -51,7 +51,7 @@ html[mode=dark] {
 }
 
 html, body {
-  font-size: 17px;
+  font-size: 1rem;
 }
 
 body {
@@ -90,7 +90,7 @@ $sidebar-display: "sidebar-display";
       font-size: 1.5rem;
       letter-spacing: .5px;
       &:hover {
-        color: #fff;
+        color: var(--sidebar-color-link);
         text-decoration: none;
       }
     }
@@ -99,10 +99,10 @@ $sidebar-display: "sidebar-display";
   .site-subtitle {
     font-size: 95%;
     text-align: center;
-    color: #828282;
+    color: rgb(100,100,100);
     line-height: 1.2rem;
     word-spacing: 1px;
-    margin: .5rem 1.5rem 2rem 1.5rem;
+    margin: .5rem 1.5rem 1.5rem 1.5rem;
   }
 
   .sidebar-bottom {
@@ -120,12 +120,12 @@ $sidebar-display: "sidebar-display";
     height: $tab-height;
     &:hover {
       .nav-link {
-        color: #f8f9facf;
+        color: var(--sidebar-color-link);
       }
     }
     &.active {
       .nav-link {
-        color: #fcfcfc;
+        color: var(--sidebar-color-link);
       }
     }
   }
@@ -179,14 +179,14 @@ $sidebar-display: "sidebar-display";
   } // ul
 
   .sidebar-bottom {
-    font-size: 1.2rem;
-    margin: 2rem 2.5rem 1.6rem;
+    font-size: 1.3rem;
+    margin: 1rem 2.5rem 1rem;
     a {
       margin-bottom: .5rem; // icons may have multi lines
     }
 
     a:hover, #mode-toggle-wrapper > i:hover {
-      color: #fff;
+      color: var(--sidebar-color-link);
     }
 
     #mode-toggle-wrapper {
@@ -225,16 +225,16 @@ $sidebar-display: "sidebar-display";
 }
 
 #profile-wrapper {
-  margin-top: 2rem;
+  margin-top: 1.2rem;
 }
 
 #avatar {
   >a {
     display: block;
-    width: 6rem;
-    height: 6rem;
+    width: 7rem;
+    height: 7rem;
     border-radius: 50%;
-    border: 2px solid #b6b6b6;
+    border: 1px solid #b6b6b6;
     overflow: hidden;
     transform: translateZ(0); // fixed the zoom in Safari
     -webkit-transition: border-color 0.35s ease-in-out;
@@ -243,7 +243,7 @@ $sidebar-display: "sidebar-display";
   }
 
   &:hover > a {
-    border-color: #fff;
+    border-color: var(--sidebar-color-link);
   }
 
   img {
@@ -559,7 +559,7 @@ footer {
     &:hover {
       background-color: #2a408e;
       border-color: #2a408e;
-      color: #fff;
+      color: var(--sidebar-color-link);
       transition: none;
     }
   }
@@ -1203,7 +1203,7 @@ div.post-content .table-wrapper {
   }
 
   .site-title {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     margin-left: 0!important;
   }
 
@@ -1430,7 +1430,6 @@ div.post-content .table-wrapper {
         @include icon-round(1.65rem);
         line-height: 1rem;
         font-size: .6rem;
-        padding: .5em 0 0 .1em;
         display: inline-block!important;
       }
     }

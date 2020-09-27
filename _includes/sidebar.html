@@ -59,7 +59,7 @@
 
   {% if site.theme_mode == "dual" %}
   <span id="mode-toggle-wrapper">
-    {% include mode-toggle.html %}
+    {% include mode-toggle.html%}
   </span>
   <span class="icon-border"></span>
   {% endif %}
@@ -68,8 +68,10 @@
     {% capture url %}
       {%- if entry.type == 'github' -%}
         https://github.com/{{ site.github.username }}
-      {%- elsif entry.type == 'twitter' -%}
-        https://twitter.com/{{ site.twitter.username }}
+      {%- elsif entry.type == 'googlescholar' -%}
+        https://scholar.google.com/citations?user={{ site.googlescholar.id }}
+      {%- elsif entry.type == 'researchgate' -%}
+        https://www.researchgate.net/profile/{{ site.researchgate.name }}
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}
         javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))
