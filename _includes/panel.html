@@ -12,8 +12,6 @@
 
   {% if site.data.updates %}
 
-    {% include update-list.html %}
-
     {% if update_list.size > 0 %}
 
     <div id="access-lastmod" class="post">
@@ -40,8 +38,6 @@
 
   {% endif %} <!-- site.data.updates -->
 
-  {% include trending-tags.html %}
-
   {% if trending_tags.size > 0 %}
     <div id="access-tags">
       <h3 data-toc-skip>
@@ -58,7 +54,7 @@
   {% endif %}
   </div> <!-- .access -->
 
-  {% if page.layout == 'page' and site.toc and page.toc %}
+  {% if page.layout == 'post' and site.toc and page.toc %}
   <div id="toc-wrapper" class="pl-0 pr-4 mb-5">
     <h3 data-toc-skip class="pl-3 pt-2 mb-2">
       {{- site.data.label.panel.toc -}}

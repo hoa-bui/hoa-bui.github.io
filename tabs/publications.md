@@ -20,4 +20,4 @@ Nonlinear Characterizations of Non-Intersection Properties*, arxiv: 1909.08995.
 1. Hoa T. Bui, Regina Burachik, Alexander Y. Kruger, David T. Yost, *Characterizations of Zero Duality Gap via Abstract Convexity*, arxiv: 1910.08156.
 1. Hoa T. Bui, Ryan Loxton, Asghar Moeini, *A Note on the Finite Convergence of Alternating Projections*, 	arXiv:2008.063146.
 
-## In Preparation.
+## In Preparation
