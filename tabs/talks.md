@@ -27,7 +27,7 @@ Talk: *Extremal Principle and its Extensions.*
 1. **December 2018**. The 62nd Annual AustMS Meeting, The University of Adelaide.\
 Talk: *About Generalised Convexity.*
 1. **March 2019**. SEIT HDR Student Seminars, Federation University Australia.\
-Talk: *On the Fr\'echet Subdifferential Calculus.*
+Talk: *On the Fr\'{e}chet Subdifferential Calculus.*
 
 
   \textsc{March} 2019  & SEIT HDR Student Seminars, Federation University Australia\\
