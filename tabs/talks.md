@@ -4,30 +4,32 @@ title: Seminars and Talks
 
 ## Talks
 
-1. **December 2016** CIAO Seminars, Federation University Australia. *Quasiconvexity and Robust Quasiconvexity*.
-1.
+1. **December 2016**. CIAO Seminars, Federation University Australia.\
+Talk: *Quasiconvexity and Robust Quasiconvexity.*
+1. **February 2017**. RMIT Optimisation Group, RMIT University.\
+Talk: *Quasiconvexity and Robust Quasiconvexity.*
+1. **April 2017**. CIAO Workshop, Federation University Australia.\
+Talk: *Extremality Properties in the View of Variational Principles.*
+1. **November 2017**. Workshop on Metric Bounds and Transversality, RMIT University.\
+Talk: *About Extremality and Stationarity Properties of a Collection of Sets.*
+1. **December 2017**. Joint conferences in Optimisation (POC & SPOM), Curtin University.\
+Talk: *About Extremality and Stationarity Properties of a Collection of Sets.*
+1. **January 2018**. Australian National University, Kioloa campus, Australia.\
+Talk: *Data61 6th International Optimisation Summer School.*
+1. **February 2018**. Variational Analysis Down Under, Federation University Australia.\
+Talk: *On the Extremality Properties of a Collection of Sets.*
+1. **April 2018**. CIAO workshop, Federation University Australia.\
+Talk: *On The Robustly Quasiconvex Functions.*
+1. **May 2018**. Workshop on Fixed points and Applications, RMIT University.
+Talk: *Robustly Quasiconvex Functions.*
+1. **November 2018**. Workshop on Metric Bounds and Transversality, Deakin University.\
+Talk: *Extremal Principle and its Extensions.*
+1. **December 2018**. The 62nd Annual AustMS Meeting, The University of Adelaide.\
+Talk: *About Generalised Convexity.*
+1. **March 2019**. SEIT HDR Student Seminars, Federation University Australia.\
+Talk: *On the Fr\'echet Subdifferential Calculus.*
 
-&Talk: ``{\it Quasiconvexity and Robust Quasiconvexity}''\\
-\textsc{February} 2017  & RMIT Optimisation Group, RMIT University\\
-&Talk: ``{\it Quasiconvexity and Robust Quasiconvexity}''\\
-\textsc{April} 2017 & CIAO Workshop, Federation University Australia\\
-&Talk: ``{\it Extremality Properties in the View of Variational Principles}''\\
-\textsc{November} 2017 & Workshop on Metric Bounds and Transversality, RMIT University\\
-&Talk: ``{\it About Extremality and Stationarity Properties of a Collection of Sets}''\\
-\textsc{December} 2017 & Joint conferences in Optimisation (POC \& SPOM), Curtin University\\
-&Talk: ``{\it About Extremality and Stationarity Properties of a Collection of Sets}''\\
-% \textsc{January} 2018 & Australian National University, Kioloa campus, Australia\\
-% &Data61 6th International Optimisation Summer School\\
- \textsc{February} 2018  & Variational Analysis Down Under, Federation University Australia\\
- &Talk: ``{\it On the Extremality Properties of a Collection of Sets}''\\
-% \textsc{April} 2018  & CIAO workshop, Federation University Australia\\
-%&Talk: ``{\it On The Robustly Quasiconvex Functions}''\\
- \textsc{May} 2018  & Workshop on Fixed points and Applications, RMIT University\\
- &Talk: ``{\it Robustly Quasiconvex Functions}''\\
- \textsc{Nov} 2018  & Workshop on Metric Bounds and Transversality, Deakin University\\
- &Talk: ``{\it Extremal Principle and its Extensions}''\\
- \textsc{Dec} 2018  & The 62nd Annual AustMS Meeting, The University of Adelaide\\
- &Talk: ``{\it About Generalised Convexity}''\\
+
   \textsc{March} 2019  & SEIT HDR Student Seminars, Federation University Australia\\
  &Talk: ``{\it On the Fr\'echet Subdifferential Calculus} \\
  & {\it with Applications in Nonsmooth \& Nonconvex Optimisation}''\\
